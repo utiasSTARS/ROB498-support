@@ -9,4 +9,4 @@ capstone design course at the University of Toronto.
 - CAD models for the [3D printed drone parts](printed_parts/).
 - [Safety resources](safety/), including a pre-flight checklist.
 
-<font size=-2> &copy; 2023 University of Toronto</font>
+&copy; 2023 University of Toronto
