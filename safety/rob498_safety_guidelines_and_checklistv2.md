@@ -2,7 +2,7 @@
 
 **Author: Xuan Wang**
 
-**2023-01-04, v1**
+**Updated 2025-01-06, v2**
 
 **Disclaimer**: The guidelines and the checklist are for *educational purposes only* in the course ROB498. All the flights should be conducted in room MY580 under the supervision of the professor / TA(s). Individual and/or outdoor flights are NOT ALLOWED; outside flight would very likely lead to violation of the law as defined by [Transport Canada](https://tc.canada.ca/en/aviation/drone-safety). 
 
